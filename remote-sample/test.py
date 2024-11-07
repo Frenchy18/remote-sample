@@ -6,5 +6,7 @@ def main():
     
     print("Sharing a new repository")
     
+    https://github.com/llayman/git-remote-clone
+    
 if __name__ == "__main__":
     main()
